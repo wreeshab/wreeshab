@@ -1,5 +1,5 @@
 # 💫 About Me:
-heyy stawlker.🫣 <br>I'm vrishab. ☕<br>My to-do list is a stack I never pop.🌀<br>I’d rather refactor my life than my codebase, but here we are." 🛠️
+heyy buttercup.🫣 <br>I'm vrishab. ☕<br>My to-do list is a stack I never pop.🌀<br>I’d rather refactor my life than my codebase, but here we are." 🛠️
 
 
 ## 🌐 Socials:
