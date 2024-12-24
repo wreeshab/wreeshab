@@ -21,6 +21,8 @@ heyy buttercup.🫣 <br>I'm vrishab. ☕<br>My to-do list is a stack I never pop
 ---
 [![](https://visitcount.itsvg.in/api?id=wreeshab&icon=0&color=2)](https://visitcount.itsvg.in)
 
+And the snake below is lame, forgive me.
+
 
 ---
 <img src="https://raw.githubusercontent.com/wreeshab/wreeshab/output/snake.svg" alt="Snake animation" />
